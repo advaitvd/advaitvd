@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advaitvd
 - 👀 I’m interested in optimization algorithms, operations research, network flows and computational engineering.
-- 🌱 I’m currently studying computational engineering.
+- 🌱 I’m currently studying computational engineering at IIT Madras, Chennai TN.
 - 📫 How to reach me: advaitvdgoa@gmail.com
 
 <!---
